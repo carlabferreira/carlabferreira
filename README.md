@@ -5,3 +5,7 @@
 - 💬 Ask me about music and we can talk for hours
 - 📫 How to reach me: LinkedIn or Email
 - 😄 Pronouns: she/her
+
+![Carla's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlabferreira&show_icons=true&theme=gruvbox)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlabferreira&exclude_repo=github-readme-stats,anuraghazra.github.io&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)

@@ -6,5 +6,6 @@
 - 📫 How to reach me: LinkedIn or Email
 - 😄 Pronouns: she/her
 
-![Carla's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlabferreira&show_icons=true&theme=gruvbox)
+<!-- [Carla's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlabferreira&show_icons=true&theme=gruvbox) -->
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlabferreira&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)

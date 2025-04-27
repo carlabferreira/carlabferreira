@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C, C++ and Python
 - 👯 I’m looking to collaborate on any interesting project
 - 💬 Ask me about music and we can talk for hours
-- 📫 How to reach me: LinkedIn or Email
+- 📫 How to reach me: LinkedIn or Email (carla.be.ferreira@gmail.com)
 - 😄 Pronouns: she/her
 
 <!-- [Carla's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlabferreira&show_icons=true&theme=gruvbox) -->

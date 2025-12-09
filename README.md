@@ -2,7 +2,7 @@
 
 I'm a Developer, Researcher and Student at Federal University of Minas Gerais.
 
-More about me and what I'm working on : [check my academic page](https://carlabferreira.github.io/)
+More about me and what I'm working on : [check out my academic page](https://carlabferreira.github.io/)
 
 ### ✉️ How to reach me
 
